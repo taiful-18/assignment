@@ -256,7 +256,9 @@ body {}
 
 .upcoming-year img {}
 
-.holidays {}
+.holidays {
+    margin-bottom: 120px;
+}
 
 .holidays-hading {
     text-align: center;
@@ -333,29 +335,117 @@ body {}
     height: 219px;
 }
 
-.header {}
+.portfolio {
+    margin-top: 120px;
+    margin: auto;
+    width: 1320px;
+    margin-bottom: 120px;
+}
 
-.header {}
+.portfolio-hader {
+    width: 896px;
+}
 
-.header {}
+.portfolio-hader h4 {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0px;
+}
 
-.header {}
+.portfolio-hader h1 {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin: 0px;
+}
 
-.header {}
+.portfolio-hader p {
+    color: #07021199;
+    font-size: 20px;
+    font-weight: 400;
+}
 
-.header {}
+.portfolio-contant {}
 
-.header {}
+.port-group1 {
+    display: flex;
+    align-items: center;
+}
 
-.header {}
+.port-groop-item {
+    width: 33%;
+}
 
-.header {}
+.port-groop-item img {
+    width: 98%;
+}
 
-.header {}
+.port-groop-item img:hover {
+    border: 2px solid blue;
+    border-radius: 24px;
+}
 
-.header {}
+.subscribe {
+    width: 1320px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin: auto;
+    padding-bottom: 87px;
+}
 
-.header {}
+.sub-contant {
+    text-align: center;
+    padding-top: 80px;
+}
+
+.sub-contant img {
+    width: 150px;
+}
+
+.sub-contant h1 {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    font-family: 'Merriweather', serif;
+}
+
+.sub-contant p {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    width: 896px;
+    margin: auto;
+}
+
+.sub-input {
+    display: inline-flex;
+    margin-top: 46px;
+}
+
+.inp-group1 {}
+
+.inp-group1 input {
+    padding: 20px;
+    border-radius: 13px;
+    border: none;
+    outline: none;
+    width: 648px;
+}
+
+.inp-group-2 {}
+
+.inp-group-2 button {
+    border-radius: 0px 50px 50px 0px;
+    margin-left: -63px;
+}
+
+.inp-group-2 {}
 
 .header {}
 
